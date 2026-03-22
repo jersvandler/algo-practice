@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Added basic usage examples to README
 - Verified compatibility with latest runtime version
+
+## 2026-03-23
+- Improved log message formatting
+- Updated CI cache strategy
